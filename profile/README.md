@@ -2,12 +2,12 @@
 
 LibreCat is a group of library developers and enthusiasts who meet at library conferences such as [ELAG](https://elag.org) and [SWIB](http://swib.org) and enjoy sharing code to process library (meta)data.
 
-This group was formed in 2013 and have many many free and open tools available. This project page provide an overview of all the tools we share with the rest of the world.
+This group was formed in 2013 and created many free and open source tools. This project page provides an overview of all the tools the group shares with the rest of the world.
 
-We created this tool mainly because they helped us in our own projects. We hope the tools can help you in your projects, but we are not a compagny or have any funding for any helpdesk or extensive support. The code is provided as is, if there any questions please ask the developers for assistence.
+We created our tools mainly because they helped us in our own projects. We hope that our tools can help you in your own projects. We are not a compagny or have any funding for any helpdesk or extensive support. The code is provided as is. If any questions arise please ask the developers of the individual projects for assistence.
 
-If you need more information about the main [Catmandu](https://metacpan.org/pod/Catmandu) project follow our [blog](https://librecatproject.wordpress.com) or read our [Wiki](https://github.com/LibreCat/Catmandu/wiki).
+If you need more information about the main [Catmandu](https://metacpan.org/pod/Catmandu) project follow our [blog](https://librecatproject.wordpress.com), read our [Wiki](https://github.com/LibreCat/Catmandu/wiki), or join our [mailing list](https://lists.uni-bielefeld.de/mailman2/cgi/unibi/listinfo/librecat-dev).
 
-Cheers from the LibreCaters:
+Cheers from the LibreCaters and see you later at SWIB, ELAG or any other great conference.
 
 Nicolas Franck, Patrick Hochstenbach, Nicolas Steenlant, Snorri Briem, Jörgen Eriksson, Maria Hedberg, Dave Sherohman, Najko Jahn, Petra Kohorst , Mathias Lösch , Vitali Peil, Christian Pietsch, Friedrich Summann , Johann Rolschewski, Jakob Voß, Péter Király, Koen Verheyen
