@@ -6,6 +6,8 @@ This group was formed in 2013 and have many many free and open tools available. 
 
 We created this tool mainly because they helped us in our own projects. We hope the tools can help you in your projects, but we are not a compagny or have any funding for any helpdesk or extensive support. The code is provided as is, if there any questions please ask the developers for assistence.
 
-Cheers from LibreCaters:
+If you need more information about the main [Catmandu](https://metacpan.org/pod/Catmandu) project follow our [blog](https://librecatproject.wordpress.com) or read our [Wiki](https://github.com/LibreCat/Catmandu/wiki).
+
+Cheers from the LibreCaters:
 
 Nicolas Franck, Patrick Hochstenbach, Nicolas Steenlant, Snorri Briem, Jörgen Eriksson, Maria Hedberg, Dave Sherohman, Najko Jahn, Petra Kohorst , Mathias Lösch , Vitali Peil, Christian Pietsch, Friedrich Summann , Johann Rolschewski, Jakob Voß, Péter Király, Koen Verheyen
