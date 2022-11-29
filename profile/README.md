@@ -8,4 +8,4 @@ We created this tool mainly because they helped us in our own projects. We hope 
 
 Cheers from LibreCaters:
 
-Nicolas Franck, Patrick Hochstenbach, Nicolas Steenlant, Snorri Briem, Jörgen Eriksson, Maria Hedberg, Dave Sherohman, Najko Jahn, Petra Kohorst , Mathias Lösch , Vitali Peil, Christian Pietsch, Friedrich Summann , Johann Rolschewski, Jakob Voß 
+Nicolas Franck, Patrick Hochstenbach, Nicolas Steenlant, Snorri Briem, Jörgen Eriksson, Maria Hedberg, Dave Sherohman, Najko Jahn, Petra Kohorst , Mathias Lösch , Vitali Peil, Christian Pietsch, Friedrich Summann , Johann Rolschewski, Jakob Voß , Király Péter, Koen Verheyen
