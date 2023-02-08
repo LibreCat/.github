@@ -12,4 +12,4 @@ Cheers from the LibreCaters and see you later at SWIB, ELAG or any other great c
 
 Nicolas Franck, Patrick Hochstenbach, Nicolas Steenlant, Snorri Briem, Jörgen Eriksson, Maria Hedberg, Dave Sherohman, Najko Jahn, Petra Kohorst , Mathias Lösch , Vitali Peil, Christian Pietsch, Friedrich Summann , Johann Rolschewski, Jakob Voß, Péter Király, Koen Verheyen
 
-Do you need more European open source toolkit for libraries? Please check also [Metafacture](https://metafacture.org)
+Do you need more European open source toolkit for libraries? Please check also [Metafacture](https://metafacture.org).
