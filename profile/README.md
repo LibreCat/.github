@@ -1,8 +1,8 @@
-# Librecat : open source applications for libraries 
+# LibreCat/Catmandu : open source applications for libraries 
 
 LibreCat is a group of library developers and enthusiasts who meet at library conferences such as [ELAG](https://elag.org) and [SWIB](http://swib.org) and enjoy sharing code to process library (meta)data.
 
-This group was formed in 2013 and created many free and open source tools. This project page provides an overview of all the tools the group shares with the rest of the world.
+This group was formed in 2013 and created many free and open source tools, mainly grouped under the Catmandu data toolkit. This project page provides an overview of all the tools the group shares with the rest of the world.
 
 We created our tools mainly because they helped us in our own projects. We hope that these tools can help you in your own projects. We are not a compagy nor have any funding for any helpdesk or extensive support. The code is provided as is. If any questions arise please ask the developers of the individual projects for assistence.
 
